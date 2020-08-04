@@ -3,4 +3,4 @@ Speak Recoginization
 
 just opens app temporarily
 
-#SRec
+#SRec #CLOUDERA
