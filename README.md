@@ -1,6 +1,6 @@
 # Cloudera - Speech-Recoginization
-Speak Recoginization
+Speech Recoginization
 
 just opens app temporarily
 
-#SRec #CLOUDERA
+
