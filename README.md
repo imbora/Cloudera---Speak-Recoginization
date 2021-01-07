@@ -1,4 +1,4 @@
-# Cloudera - Speak-Recoginization
+# Cloudera - Speech-Recoginization
 Speak Recoginization
 
 just opens app temporarily
